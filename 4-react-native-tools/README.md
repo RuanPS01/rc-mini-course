@@ -13,3 +13,7 @@
 - Styled Components
 - i18n
 - Third Party component: react-native-bubble-select => <https://www.npmjs.com/package/@dehimer/react-native-bubble-select>
+
+# More infos
+
+<https://reactnative.dev/docs/typescript?package-manager=yarn>

@@ -7,3 +7,6 @@
 `npx create-expo-app@latest`
 
 ### Use "yarn" command to manage packages
+
+# More infos: 
+https://reactnative.dev/docs/typescript?package-manager=yarn
