@@ -10,3 +10,6 @@
 
 # More infos: 
 https://reactnative.dev/docs/typescript?package-manager=yarn
+
+# Playground to test codes
+https://codesandbox.io/p/sandbox/react-native-playground 
